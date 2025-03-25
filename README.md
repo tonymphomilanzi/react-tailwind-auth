@@ -7,7 +7,7 @@ React: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for rapid UI development.
 How to Run:
 =>Clone the repository:
-git clone https://github.com/your-username/react-auth-form.git
+git clone https://github.com/tonymphomilanzi/react-auth-form.git
 
 =>Install dependencies:
 npm install
