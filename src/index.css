@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.input-focus {
+  outline: 2px solid #3B82F6; /* blue border when focused */
+  transition: all 0.2s ease;
+}
